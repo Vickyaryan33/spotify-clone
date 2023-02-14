@@ -1,13 +1,13 @@
 # spotify-clone
 
-https://vickyaryan33.github.io/my_portfolio/
+https://vickyaryan33.github.io/spotify-clone/
 
-I have created a portfolio to showcase my skills and projects. To achieve this, I implemented the following - 
+I have created a Spotify Clone to showcase my skills and projects. To achieve this, I implemented the following - 
 
 
 
 ## HTML
-I created website  body using html tag  
+I created spotify clone body using html tag  
 
 ## CSS Grid & Flexbox 
 I created fluid layouts throughout the page with a mixture of Grid and Flexbox. The app is fully responsive on multiple screen widths.
